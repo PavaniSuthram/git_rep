@@ -1,7 +1,0 @@
-create table employee(name varchar, age int, city varchar);
-
-insert into employee(name, age, city)
-values('Pavani', 25, 'Hyderabad'),
-('Sravani', 25, 'Hyderabad'),
-('Both are Friends', 00, 'Kasmo');
-
